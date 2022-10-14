@@ -1,15 +1,14 @@
 package com.brightola.services;
 
 import com.brightola.models.Employee;
+import com.brightola.models.Ticket;
 import com.brightola.repos.EmployeeRepo;
-import com.brightola.utils.CRUDDaoInterface;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class EmployeeService {
 
-    private EmployeeRepo employeeRepo;
+    private static EmployeeRepo employeeRepo;
 
     //    we are creating a new instance of our EmployeeRepo
     public EmployeeService(){
@@ -38,14 +37,16 @@ public class EmployeeService {
     }
 
     //    readByUsername
-    public Employee getEmployeeByUser_name(String user_name, String pass_word)
-    { return employeeRepo.getLogin(user_name, pass_word);}
+    public static Ticket getEmployeeByUser_name(String user_name, String pass_word) {
+        return employeeRepo.getLogin(user_name, pass_word);
+    }
 
 //    check for username
 //    public boolean checkUsername(String username){return userRepo.checkUsername(username);}
 
     //    update
     public Employee updateEmployee(Employee employee){
+
         return employeeRepo.update(employee);
     }
 
@@ -54,7 +55,8 @@ public class EmployeeService {
         return employeeRepo.delete(employee);
     }
 
-    public boolean changePos(Employee employee) {return employeeRepo.changePos(employee);}
+    public boolean changePos(Employee employee) {
+        return employeeRepo.changePos(employee);}
 
     public Object deleteEmployeeById(int id) {
         return null;

@@ -40,6 +40,10 @@ public class Employee {
     public Employee(int id, String first_name, String last_name, String gender, String user_name, String email, String pass_word, String phone_no, Boolean isManager) {
     }
 
+    public Employee(String s, String s1, boolean b) {
+
+    }
+
     public static int create(Employee employee) {
         return 0;
     }
@@ -135,8 +139,5 @@ public class Employee {
                     '}';
         }
 
-    public void add(Employee employee) {
-
-    }
 }
 

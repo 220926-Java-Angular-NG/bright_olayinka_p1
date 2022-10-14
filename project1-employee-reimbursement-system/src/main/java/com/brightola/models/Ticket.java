@@ -5,6 +5,18 @@ public class Ticket {
     private double amount;
     private String description;
     private int creator_id;
+
+    public Object getType() {
+        return null;
+    }
+
+    public boolean getIsManager() {
+        return false;
+    }
+
+    public String getUser_name() {
+        return null;
+    }
 //    private String status;
 
     public enum Status {pending, approved, denied}

@@ -1,4 +1,6 @@
 package com.brightola.utils;
+import com.brightola.models.Ticket;
+
 import java.util.List;
 import java.util.List;
 
@@ -14,9 +16,15 @@ public interface CRUDDaoInterface <T>{
     //arrayList of whatever type I query
     List<T> getAll();
 
+    List<Ticket> getTicketByCreator_id(int creator_id);
+
     T getById(int id);
 
+    Ticket getLogin(String username, String password);
+
     T update(T t);
+
+    boolean updateTicket(int id, Ticket.Status status);
 
     boolean delete(T t);
 

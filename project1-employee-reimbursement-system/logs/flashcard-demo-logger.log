@@ -1,0 +1,195 @@
+2022-10-14 01:19:40,696 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-14 01:19:40,715 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @521ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-14 01:19:40,718 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-14 01:19:40,736 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 97 days old. Consider checking for a newer version.).
+2022-10-14 01:19:40,790 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 01:19:40,792 ERROR io.javalin.core.util.JavalinLogger [main] Failed to start Javalin
+2022-10-14 01:19:40,792 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 01:21:20,572 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-14 01:21:20,596 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @525ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-14 01:21:20,599 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-14 01:21:20,617 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 97 days old. Consider checking for a newer version.).
+2022-10-14 01:21:20,678 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 01:21:20,679 ERROR io.javalin.core.util.JavalinLogger [main] Failed to start Javalin
+2022-10-14 01:21:20,680 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 01:22:35,473 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-14 01:22:35,495 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @545ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-14 01:22:35,497 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-14 01:22:35,516 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 97 days old. Consider checking for a newer version.).
+2022-10-14 01:22:35,576 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 01:22:35,577 ERROR io.javalin.core.util.JavalinLogger [main] Failed to start Javalin
+2022-10-14 01:22:35,578 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 01:47:21,036 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-14 01:47:21,058 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @556ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-14 01:47:21,060 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-14 01:47:21,080 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 97 days old. Consider checking for a newer version.).
+2022-10-14 01:47:21,167 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 01:47:21,169 ERROR io.javalin.core.util.JavalinLogger [main] Failed to start Javalin
+2022-10-14 01:47:21,170 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 02:05:40,681 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-14 02:05:40,704 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @604ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-14 02:05:40,705 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-14 02:05:40,727 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 97 days old. Consider checking for a newer version.).
+2022-10-14 02:05:40,808 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 02:05:40,810 ERROR io.javalin.core.util.JavalinLogger [main] Failed to start Javalin
+2022-10-14 02:05:40,810 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 02:20:40,752 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-14 02:20:40,788 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @776ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-14 02:20:40,790 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-14 02:20:40,833 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 97 days old. Consider checking for a newer version.).
+2022-10-14 02:20:40,943 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 02:20:40,944 ERROR io.javalin.core.util.JavalinLogger [main] Failed to start Javalin
+2022-10-14 02:20:40,945 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 03:10:38,522 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-14 03:10:38,544 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @587ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-14 03:10:38,546 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-14 03:10:38,568 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 97 days old. Consider checking for a newer version.).
+2022-10-14 03:10:38,640 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 03:10:38,642 ERROR io.javalin.core.util.JavalinLogger [main] Failed to start Javalin
+2022-10-14 03:10:38,642 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 03:11:31,002 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-14 03:11:31,020 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @465ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-14 03:11:31,022 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-14 03:11:31,037 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 97 days old. Consider checking for a newer version.).
+2022-10-14 03:11:31,088 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 03:11:31,089 ERROR io.javalin.core.util.JavalinLogger [main] Failed to start Javalin
+2022-10-14 03:11:31,089 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 09:16:26,894 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-14 09:16:26,915 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @527ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-14 09:16:26,917 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-14 09:16:26,941 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 98 days old. Consider checking for a newer version.).
+2022-10-14 09:16:26,990 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 09:16:26,991 ERROR io.javalin.core.util.JavalinLogger [main] Failed to start Javalin
+2022-10-14 09:16:26,992 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 09:17:33,346 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-14 09:17:33,368 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @591ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-14 09:17:33,369 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-14 09:17:33,393 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 98 days old. Consider checking for a newer version.).
+2022-10-14 09:17:33,471 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 09:17:33,473 ERROR io.javalin.core.util.JavalinLogger [main] Failed to start Javalin
+2022-10-14 09:17:33,474 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 09:18:21,742 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-14 09:18:21,760 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @537ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-14 09:18:21,762 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-14 09:18:21,782 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 98 days old. Consider checking for a newer version.).
+2022-10-14 09:18:21,831 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 09:18:21,832 ERROR io.javalin.core.util.JavalinLogger [main] Failed to start Javalin
+2022-10-14 09:18:21,833 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 09:20:09,797 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-14 09:20:09,817 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @532ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-14 09:20:09,819 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-14 09:20:09,839 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 98 days old. Consider checking for a newer version.).
+2022-10-14 09:20:09,888 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 09:20:09,889 ERROR io.javalin.core.util.JavalinLogger [main] Failed to start Javalin
+2022-10-14 09:20:09,890 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 09:21:57,557 INFO io.javalin.core.util.JavalinLogger [main] 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+2022-10-14 09:21:57,574 INFO org.eclipse.jetty.util.log.Log [main] Logging initialized @451ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-10-14 09:21:57,575 INFO io.javalin.core.util.JavalinLogger [main] Starting Javalin ...
+2022-10-14 09:21:57,589 INFO io.javalin.core.util.JavalinLogger [main] You are running Javalin 4.6.4 (released July 8, 2022. Your Javalin version is 98 days old. Consider checking for a newer version.).
+2022-10-14 09:21:57,635 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!
+2022-10-14 09:21:57,637 ERROR io.javalin.core.util.JavalinLogger [main] Failed to start Javalin
+2022-10-14 09:21:57,637 INFO io.javalin.core.util.JavalinLogger [main] Loom is available, using Virtual ThreadPool... Neat!

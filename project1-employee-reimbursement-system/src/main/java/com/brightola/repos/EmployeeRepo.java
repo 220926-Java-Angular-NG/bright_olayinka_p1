@@ -1,7 +1,7 @@
 package com.brightola.repos;
 
 import com.brightola.models.Employee;
-import com.brightola.utils.ConnectionManager;
+import com.brightola.models.Ticket;
 import com.brightola.utils.CRUDDaoInterface;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -9,7 +9,6 @@ import org.slf4j.LoggerFactory;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-import javax.jws.soap.SOAPBinding;
 
 
 public class EmployeeRepo implements CRUDDaoInterface<Employee> {
@@ -117,6 +116,11 @@ public class EmployeeRepo implements CRUDDaoInterface<Employee> {
         return null;
     }
 
+    @Override
+    public List<Ticket> getTicketByCreator_id(int creator_id) {
+        return null;
+    }
+
 
     @Override
     public Employee getById(int id) {
@@ -163,6 +167,11 @@ public class EmployeeRepo implements CRUDDaoInterface<Employee> {
     }
 
     @Override
+    public boolean updateTicket(int id, Ticket.Status status) {
+        return false;
+    }
+
+    @Override
     public boolean delete(Employee employee) {
         try {
             String sql = "DELETE FROM employee WHERE id=?";
@@ -180,7 +189,7 @@ public class EmployeeRepo implements CRUDDaoInterface<Employee> {
         return false;
     }
 
-    public Employee getLogin(String user_name, String pass_word) {
+    public Ticket getLogin(String user_name, String pass_word) {
         return null;
     }
 }

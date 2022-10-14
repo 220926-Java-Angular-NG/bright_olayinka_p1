@@ -3,8 +3,18 @@
 import com.brightola.models.Employee;
 import com.brightola.services.EmployeeService;
 import io.javalin.http.Handler;
+//import jdk.vm.ci.services.Services;
 
-public class EmployeeController {
+ public class EmployeeController {
+    public Handler getEmployeeById = context -> {
+            Employee employee = context.bodyAsClass(Employee.class);
+            //employee = service.updateEmployeeById(employee);
+            if (employee != null) {
+                context.json(employee);
+            } else {
+                context.result("Could not update employee.").status(400);
+            }
+        };
     EmployeeService service;
 
     public EmployeeController(){
